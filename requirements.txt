@@ -1,4 +1,0 @@
-python-telegram-bot==20.5
-openai
-flask
-nest_asyncio
